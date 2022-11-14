@@ -7,9 +7,11 @@ From the Open Data Obtained from Kaggle Repositories, the Breast Cancer Wisconsi
 Data processing and model training is performed on Jupyter Notebook
 
 ##Installation
+
 All libraries are available in Anaconda distribution of Python
 
 ##Dataset
+
 The dataset has 3 attribute, with
 Ten real-valued features are computed for each cell nucleus:
 
@@ -25,6 +27,7 @@ i) symmetry
 j) fractal dimension ("coastline approximation" - 1)
 
 ##File description
+
 - 'data.csv' : the dataset file
 - 'breast_cancer_diagnosis.ipynb' : contains the code of data exploration, preparation and modelling
 - 'model.pkl : the classification model
