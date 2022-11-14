@@ -6,9 +6,12 @@ MY FINAL YEAR PROJECT.
 From the Open Data Obtained from Kaggle Repositories, the Breast Cancer Wisconsin Dataset is choosen to be used in this project.
 Data processing and model training is performed on Jupyter Notebook
 
+
+
 ##Installation
 
 All libraries are available in Anaconda distribution of Python
+
 
 
 ##Dataset
@@ -35,6 +38,8 @@ h) concave points (number of concave portions of the contour)
 i) symmetry
 
 j) fractal dimension ("coastline approximation" - 1)
+
+
 
 
 ##File description
