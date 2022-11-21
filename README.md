@@ -1,20 +1,20 @@
 # Breast_Cancer_Prediction
 MY FINAL YEAR PROJECT.
 
-#Project Overview
+## Project Overview
 
 From the Open Data Obtained from Kaggle Repositories, the Breast Cancer Wisconsin Dataset is choosen to be used in this project.
 Data processing and model training is performed on Jupyter Notebook
 
 
 
-##Installation
+## Installation
 
 All libraries are available in Anaconda distribution of Python
 
 
 
-##Dataset
+## Dataset
 
 The dataset has 3 attribute, with
 Ten real-valued features are computed for each cell nucleus:
@@ -42,7 +42,7 @@ j) fractal dimension ("coastline approximation" - 1)
 
 
 
-##File description
+## File description
 
 - 'data.csv' : the dataset file
 - 'breast_cancer_diagnosis.ipynb' : contains the code of data exploration, preparation and modelling
